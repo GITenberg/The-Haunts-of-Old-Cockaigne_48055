@@ -1,4 +1,8 @@
 _repo: The-Haunts-of-Old-Cockaigne_48055
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48055-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Thompson, Alexander M. (Alexander Mattock)
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44617
     wikipedia: http://en.wikipedia.org/wiki/Alexander_M._Thompson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48055#The-Haunts-of-Old-Cockaigne
 gutenberg_issued: '2015-01-23'
 gutenberg_type: Text
 identifiers:
